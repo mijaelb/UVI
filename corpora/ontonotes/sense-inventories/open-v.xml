@@ -1,11 +1,10 @@
-<?xml version="1.0" ?><!DOCTYPE inventory  SYSTEM 'inventory.dtd'><inventory lemma="open-v">
+﻿<?xml version="1.0" ?>
+<!DOCTYPE inventory  SYSTEM 'inventory.dtd'>
+<inventory lemma="open-v">
    <commentary>
-     Distinction between senses 1 and 5 based on FrameNet
-        framesets for Body_Movement and Closure
+     Distinction between senses 1 and 5 based on FrameNet framesets for Body_Movement and Closure
    </commentary>
-   <sense group="1" n="1" name="(cause something to) become unobstructed or
-   accessible”
-" type="">
+   <sense group="1" n="1" name="(cause something to) become unobstructed or accessible" type="">
       <commentary>
         Syntax Includes:
         NP1[agent] OPEN NP2[patient]
@@ -31,8 +30,7 @@
          <vn>other_cos-45.4</vn><fn>Closure</fn>
       </mappings><SENSE_META clarity=""/>
    </sense>
-   <sense group="1" n="2" name="cause or become accessible state, make or
-   become available" type="">
+   <sense group="1" n="2" name="cause or become accessible state, make or become available" type="">
       <commentary>
         Syntax Includes:
         NP1[agent] OPEN NP2[patient]

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <!DOCTYPE inventory SYSTEM "inventory.dtd">
-<inventory lemma="chatter">    
+<inventory lemma="chatter-v">    
    <commentary>
    </commentary>
    <sense group="1" n="1" name="to click repeatedly" type="">  
